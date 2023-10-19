@@ -1,9 +1,11 @@
 module.exports = {
     1 : {
-        name: 'Fred',
+        name: 'Federico',
         age: 29,
-        occupation: 'Pedicab driver'
+        occupation: 'WBS Student',
+        password: 'abc'
     },
+    /*
     2 : {
         name: 'Suzy',
         age: 18,
@@ -29,4 +31,5 @@ module.exports = {
         age: 58,
         occupation: 'Chief Technical Officer'
     }
+    */
 }
